@@ -42,10 +42,6 @@ Bu depo; Tio Otomasyon bünyesinde entegre edilen ABB IRB 6750S-185/3.9 LID end�
 
 2. **Haftalık Laboratuvar Föyleri (Safety 4.0):**
    - Hafta 1'den Hafta 7'ye kadar tüm laboratuvarlar bağımsız `.docx` dosyaları olarak ayrılmıştır.
-   - Orijinal bootcamp föy şablonuna birebir sadık kalınmış, kavram kutuları, tablolar ve soru akışları eksiksiz aktarılmıştır.
-   - Soruların tamamı Tio Otomasyon ve ABB IRB 6750S robot hücresinin gerçek parametreleriyle doldurulmuştur.
+   - 
 
-3. **Üretime Hazır X.509 CA ve PKI Altyapısı:**
-   - Root CA (Kök Yetkili), Intermediate CA (Ara Yetkili), Robot Kontrolör Sertifikası ve RobotStudio mTLS İstemci Sertifikası üretilmiştir.
-   - `generate_pki_certs.sh` betiği ile tüm zincir doğrulanmış (OpenSSL Verify OK) ve Windows/RobotStudio için PKCS#12 (`.p12`) paketi oluşturulmuştur.
 
